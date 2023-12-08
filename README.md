@@ -4,7 +4,8 @@
 
 Develop a comprehensive sales forecasting model utilizing various methods, including time series analysis, regression analysis, causal analysis, and machine learning. The model will undergo evaluation using industry-standard metrics (e.g., MAE, MAPE, RMSE) and its ability to dynamically update forecasts in response to new data from a holdout dataset.
 
-<img src="images/demo.gif?raw=true"/>
+<img src="https://github.com/dbhakti3450/predictive-model-bhakti-capstone/assets/134881202/4fdae15f-6e93-4f6c-a89c-843f08b667de"/>
+
 ![image](https://github.com/dbhakti3450/predictive-model-bhakti-capstone/assets/134881202/4fdae15f-6e93-4f6c-a89c-843f08b667de)
 
 
