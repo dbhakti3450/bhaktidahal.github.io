@@ -53,6 +53,9 @@ For full EDA Notebook and Detail Explanation of Analytical Findings:
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dbhakti3450/bhaktidahal-capstone-github.io/blob/4afd7560e2be1821456dcad6783943edc8f4c3f7/Bhakti_Maverik_EDA_by_BonFire_Analytics.ipynb)
 
 ### Sales Forecasting - Model Building 
+
+Modeling Notebook is found here: [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/dbhakti3450/bhaktidahal-capstone-github.io/blob/60989902cb246d95f9e892d400d7237cf0eb2f07/Sales_Forecasting_Maverik.ipynb)
+
 Prophet model showed promising results for forecasting convenience store sales, especially with clustering and hyperparameter tuning. It outperformed other models like ARIMA and SARIMA that faced limitations in handling seasonality and holidays. Further optimization of Prophet model using more data and rolling origin is highly recommended for even better accuracy.
 
 **Key Findings:**
@@ -68,5 +71,5 @@ Cluster 3 showed substantial forecast accuracy improvements for inside and food 
 
 Cluster 4 demonstrated more accurate forecasts for inside sales without hyperparameters, significant improvements for food service sales with hyperparameters, and notable enhancements for unleaded sales and minor improvements for diesel sales with hyperparameters.
 
-#### Unleaded - Cluster 4 Forecasting 
+**Unleaded - Cluster 4 Forecasting**
 ![image](https://github.com/dbhakti3450/bhaktidahal.github.io/assets/134881202/fbf0d14e-37e8-4ebe-a489-77458fdb64a3)
